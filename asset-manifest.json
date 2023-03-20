@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo-List-_React-Project_Hooks-/static/css/main.019d73af.css",
+    "main.js": "/Todo-List-_React-Project_Hooks-/static/js/main.48954c2f.js",
+    "static/js/787.11e27890.chunk.js": "/Todo-List-_React-Project_Hooks-/static/js/787.11e27890.chunk.js",
+    "index.html": "/Todo-List-_React-Project_Hooks-/index.html",
+    "main.019d73af.css.map": "/Todo-List-_React-Project_Hooks-/static/css/main.019d73af.css.map",
+    "main.48954c2f.js.map": "/Todo-List-_React-Project_Hooks-/static/js/main.48954c2f.js.map",
+    "787.11e27890.chunk.js.map": "/Todo-List-_React-Project_Hooks-/static/js/787.11e27890.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019d73af.css",
+    "static/js/main.48954c2f.js"
+  ]
+}
